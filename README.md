@@ -130,6 +130,7 @@
 
 <a href="https://github.com/rangling/sora2-invite-guide" target="_blank">Sora2 用法指南</a> – 热门提示词合集与实用案例。
 
+<a href="https://github.com/rangling/gemini3-recharge-guide" target="_blank">本教程 GitHub 仓库地址</a> – 本教程的源码与最新更新请参见 GitHub 仓库。
 
 
 **⭐ Gemini3.0 关键词索引（SEO 扩展版 · 优化密度 · 更安全）**：  
