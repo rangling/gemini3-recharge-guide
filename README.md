@@ -1,5 +1,5 @@
 # 2025年最新Gemini3.0充值教程：最全的Gemini Pro订阅方法与代充平台推荐！支持国内微信支付宝！可以直接购买原生Gemini pro独立账号，也可为你现有Gemini账号代充值！
-最近更新于：2025年11月19日
+最近更新于：2026年5月11日
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/21fb5b93-aa16-4a7c-8505-212c02aab5c3" alt="Gemini3.0 充值教程示例图" width="600">
